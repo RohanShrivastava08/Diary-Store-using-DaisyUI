@@ -6,9 +6,6 @@
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4c85b2de-aaf4-4eed-aff6-307d1fe93725" />
 
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/199b7b94-1115-411b-b303-f07b6b59663b" />
-
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9636a770-fc7e-409c-b397-212259349040" />
 
 - A modern diary management web app built with React, styled using TailwindCSS + DaisyUI, and powered by Vite for fast builds.
 
@@ -138,6 +135,15 @@ npm run dev
 
 ## 📸 Screenshots
 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6ad8c246-373d-4786-9ead-3877ec1c8ecb" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4d0833d9-da1a-4497-b79a-84fd6135bd98" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4c85b2de-aaf4-4eed-aff6-307d1fe93725" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/199b7b94-1115-411b-b303-f07b6b59663b" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9636a770-fc7e-409c-b397-212259349040" />
 
 
 ## 🤝 Contributing
