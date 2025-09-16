@@ -1,13 +1,13 @@
 # 📔 Diary Store using DaisyUI – React + Vite + Tailwind
 
+- A modern diary management web app built with React, styled using TailwindCSS + DaisyUI, and powered by Vite for fast builds.
+
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6ad8c246-373d-4786-9ead-3877ec1c8ecb" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4d0833d9-da1a-4497-b79a-84fd6135bd98" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4c85b2de-aaf4-4eed-aff6-307d1fe93725" />
 
-
-- A modern diary management web app built with React, styled using TailwindCSS + DaisyUI, and powered by Vite for fast builds.
 
 
 ## 📋 Table of Contents
